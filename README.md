@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  developer full stack
+  Developer full stack
 </p>
 
 ### ⭐️ Sobre mim:
