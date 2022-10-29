@@ -50,8 +50,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crsouza993&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-💬 Quer me conhecer?
-
+💬 
 <div>
  
 </div>
