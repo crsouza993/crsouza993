@@ -27,7 +27,7 @@
 
 - 🎨 Estudando UX e UI 
 
-- 📈 estudando sobre metodologias ágeis 
+- 📈 Conhecendo mais sobre cibersegurança 
 
 ### ⚡ Tecnologias:
 
