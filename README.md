@@ -56,6 +56,6 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
  
 </div>
 <br>
-<p>🧠 <span style="font-style:italic">"Seja você mesmo, todos os outros já existem."</span></p>
+<p>🧠 <span style="font-style:italic">""</span></p>
 
   
