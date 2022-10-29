@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 21 anos, sou de Ribeirão Preto e atualmente estou trabalhando como Analista de Suporte.
+    Tenho 21 anos, sou de Ribeirão Preto e atualmente estou estagiando como Analista de Suporte.
     
   </em>
 </p>
