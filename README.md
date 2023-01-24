@@ -19,7 +19,7 @@
 
 - 🌱 Atualmente estou focada no desenvolvimento full stack, me aperfoçoando tanto em Back-end como em Front-end 
 - 📚 Estudante de Técnico em Informática - Senac RP 
-- 📫 Meu email: crsouza991@gmail.com
+- 📫 Meu email: crsouza994@gmail.com
 
 ### 📊 Desenvolvimento:
 
