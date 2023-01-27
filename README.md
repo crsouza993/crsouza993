@@ -41,6 +41,14 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
   
 </div>
 
+### 📈 Minhas Estatísticas
+
+
+<div align="center">
+  <a href="https://github.com/crsouza993">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crsouza993&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crsouza993&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
   
