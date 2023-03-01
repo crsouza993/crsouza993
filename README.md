@@ -17,14 +17,7 @@
 
 - 🌱     Atualmente estou focada em front-end e UX UI Design, porém, com alguns conhecimentos em back-end. Visando em um futuro próximo, carreira total em desenvolvimento full-stack
 - 📚 Estudante de Técnico em Informática - Senac RP 
-<h1>
-<div align="center">
-  <a href="https://github.com/crsouza993">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=crsouza993&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crsouza993&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-</h1>
+
    <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="download.gif">
       <h1 align="center">Hard skills ⭐️  </h1>
@@ -47,7 +40,14 @@
 
 </div><br>
     
-
+<h1>
+<div align="center">
+  <a href="https://github.com/crsouza993">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=crsouza993&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crsouza993&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+</h1>
 
 <div align="center">
 
