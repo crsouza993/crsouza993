@@ -3,7 +3,7 @@
   
   <h1 align="center">
      Olá,  Bem vindo-a minha página!<br> Sou a 
-      <a href="https://www.linkedin.com/in/edududuribeiro/](https://www.linkedin.com/in/ch%C3%A9riman-souza-/)">Chériman Souza 😃️</a>
+      <a href="https://www.linkedin.com/in/edududuribeiro/](https://www.linkedin.com/in/ch%C3%A9riman-souza-/">Chériman Souza 😃️</a>
   </h1>
   ⭐️ Sobre mim:
 <p>
