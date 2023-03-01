@@ -1,46 +1,64 @@
-<h1 align='center'>
-  Olá, sou a Chériman Souza!
-  <br/>
-  Bem vindo-a minha página :)
-</h1>
 
-<p align='center'>
-  Developer full stack
-</p>
-
-### ⭐️ Sobre mim:
-
+<div>
+  
+  <h1 align="center">
+     Olá,  Bem vindo-a minha página!<br> Sou a 
+      <a href="https://www.linkedin.com/in/edududuribeiro/](https://www.linkedin.com/in/ch%C3%A9riman-souza-/)">Chériman Souza 😃️</a>
+  </h1>
+  ⭐️ Sobre mim:
 <p>
+  <br>
   <em>
-    Tenho 21 anos, sou de Ribeirão Preto e atualmente estou estagiando como Analista de Suporte.
+      - Tenho 21 anos, sou de Ribeirão Preto - SP. 
+      - Atualmente tenho experiencia em vivências tecnológicas como estágio em Analista de Suporte.
     
   </em>
 </p>
 
-- 🌱 Atualmente estou focada no desenvolvimento full stack, me aperfoçoando tanto em Back-end como em Front-end 
+- 🌱     Atualmente estou focada em front-end e UX UI Design, porém, com alguns conhecimentos em back-end. Visando em um futuro próximo, carreira total em desenvolvimento full-stack
 - 📚 Estudante de Técnico em Informática - Senac RP 
-- 📫 Meu email: crsouza994@gmail.com
+<h1>
+<div align="center">
+  <a href="https://github.com/crsouza993">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=crsouza993&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crsouza993&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+</h1>
+   <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="download.gif">
+      <h1 align="center">Hard skills ⭐️  </h1>
 
-### 📊 Desenvolvimento:
+<div align="center" valign="top"><br>
 
-- ⌛️ Portifólio em criação 
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <br> 
+  </br>
+  <p> Em aprendizagem </p>
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 
-- 🎨 Estudando UX e UI 
+</div><br>
+    
 
-- 📈 Conhecendo mais sobre cibersegurança 
 
-### ⚡ Tecnologias:
+<div align="center">
 
-Estas são algumas das tecnologias e ferramentas que utilizo:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cheriman-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cheriman-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cheriman-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cheriman-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
-
-
-  
+<h1>
+<div align="center">
+ 
+  <a href="https://www.linkedin.com/in/edududuribeiro/](https://www.linkedin.com/in/ch%C3%A9riman-souza-/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto: crsouza994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+</h1>
