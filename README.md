@@ -9,7 +9,7 @@
 <p>
   <br>
   <em>
-      - Tenho 21 anos, sou de Ribeirão Preto - SP. 
+      - Tenho 22 anos, sou de Ribeirão Preto - SP. 
       - Atualmente tenho experiencia em vivências tecnológicas como estágio em Analista de Suporte.
     
   </em>
