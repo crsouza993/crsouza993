@@ -14,9 +14,10 @@
     
   </em>
 </p>
-
-- 🌱     Atualmente estou focada em front-end e UX UI Design, porém, com alguns conhecimentos em back-end. Visando em um futuro próximo, carreira total em desenvolvimento full-stack
+  
 - 📚 Estudante de Técnico em Informática - Senac RP 
+- 🌱  Atualmente tenho conhecimentos em software, hardware e redes/infraestrutura. Visando em um futuro próximo, carreira total em desenvolvimento full-stack, pelo simples fato de eu amar todo processo de desenvolvimento, desde ao ''backstage'' ao ''palco''. Estar presente, contribuindo no backend e no frontend. 
+
 
    <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="download.gif">
