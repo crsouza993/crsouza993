@@ -15,7 +15,7 @@
   </em>
 </p>
   
-- 📚 Formada em técnico de informática, atualmente graduando em Ciências da Computação 
+- 📚 Formada em técnico de informática, graduando em Ciências da Computação 
 - 🌱  Atualmente tenho conhecimentos em software, hardware e redes/segurança da informação. Visando em um futuro próximo, contribuir para os desenvolvimentos de sistemas, garantindo a segurança ponta a ponta. Sou entusiasta à tecnologia, com amor por cibersegurança. 
 
    <div style="display: inline_block"><br>
