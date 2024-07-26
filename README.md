@@ -9,15 +9,14 @@
 <p>
   <br>
   <em>
-      - Tenho 22 anos, sou de Ribeirão Preto - SP. 
+      - Tenho 23 anos, moro em São Paulo - SP. 
       - Atualmente tenho experiencia em vivências tecnológicas como estágio em Analista de Suporte.
     
   </em>
 </p>
   
-- 📚 Estudante de Técnico em Informática - Senac RP 
-- 🌱  Atualmente tenho conhecimentos em software, hardware e redes/infraestrutura. Visando em um futuro próximo, carreira total em desenvolvimento full-stack, pelo simples fato de eu amar todo processo de desenvolvimento, desde ao ''backstage'' ao ''palco''. Estar presente, contribuindo no backend e no frontend. 
-
+- 📚 Formada em técnico de informática, atualmente graduando em Ciências da Computação 
+- 🌱  Atualmente tenho conhecimentos em software, hardware e redes/segurança da informação. Visando em um futuro próximo, contribuir para os desenvolvimentos de sistemas, garantindo a segurança ponta a ponta. Sou entusiasta à tecnologia, com amor por cibersegurança. 
 
    <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="download.gif">
@@ -25,7 +24,7 @@
 
 <div align="center" valign="top"><br>
 
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
