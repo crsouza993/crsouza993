@@ -9,8 +9,7 @@
 <p>
   <br>
   <em>
-      - Tenho 23 anos, moro em São Paulo - SP. 
-      - Atualmente tenho experiencia em vivências tecnológicas como estágio em Analista de Suporte.
+      
     
   </em>
 </p>
