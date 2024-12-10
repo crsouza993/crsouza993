@@ -35,8 +35,8 @@
   <br> 
   </br>
   
-  <p> Em aprendizagem </p>
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+ <!--<p> Em aprendizagem </p>
+  #<img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> -->
 
 
 </div><br>
