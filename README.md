@@ -28,7 +28,6 @@
     <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sqlite-original.svg"> 
    <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
   <img align="center" alt="github" height="35" width="35" src="GitHub.png">
