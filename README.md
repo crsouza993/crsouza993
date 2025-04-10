@@ -14,9 +14,8 @@
   </em>
 </p>
   
-- 📚 Formada em técnico de informática, graduando em Ciências da Computação 2º semestre
-- 🌱  Atualmente tenho conhecimentos em software, hardware e redes/segurança da informação. Visando em um futuro próximo, contribuir para os desenvolvimentos de sistemas, garantindo a segurança ponta a ponta. Sou entusiasta à tecnologia, com amor por cibersegurança. 
-
+- 📚 Formada em técnico de informática, graduando em Ciências da Computação 2/8 - Unip 
+- 🌱  Atualmente tenho conhecimentos em software, hardware e redes/segurança da informação. Visando em um futuro próximo, contribuir para os desenvolvimentos de sistemas, garantindo a segurança ponta a ponta. Sou entusiasta por cibersegurança, Inteligência Artificial e IOT
    <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="download.gif">
       <h1 align="center">Hard skills ⭐️  </h1>
