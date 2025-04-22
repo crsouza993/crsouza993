@@ -27,12 +27,19 @@
   
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
   <a href="https://github.com/crsouza993">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=crsouza993&count_private=true&include_all_commits=true&show_icons=true&theme=great-gatsby&hide_border=false&show_owner=true"/>
-  </a>
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crsouza993&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-</h1>
+  <table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/crsouza993">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=crsouza993&count_private=true&include_all_commits=true&show_icons=true&theme=great-gatsby&hide_border=false&show_owner=true"/>
+      </a>
+    </td>
+    <td>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crsouza993&layout=compact&langs_count=16&theme=great-gatsby"/>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
